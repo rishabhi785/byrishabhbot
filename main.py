@@ -11,7 +11,7 @@ import logging
 import requests
 
 # Bot config
-BOT_TOKEN = "8056660251:AAEdC57lu0_Jd52nCBbLAhVWVF7XketqrGY"
+BOT_TOKEN = "8056660251:AAEdm14a44mcMprXjVwz02jvQylCTAS5S_I"
 CHANNEL_USERNAME = "@rishabhearningtip"
 YOUTUBE_LINK = "https://youtube.com/@rishabhearningtipss?si=4asSZyYDXpjTRTsh"
 GROUP_CHAT_ID = -1002216818642
